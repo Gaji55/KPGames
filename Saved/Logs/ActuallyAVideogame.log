@@ -1385,3 +1385,153 @@ Make sure 'GrapplingHook_C' has been compiled for  Set HookPoint
 [2022.07.16-11.51.30:555][960]LogDerivedDataCache: C:/Users/feder/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.139 and deleted 0 file(s) with total size 0 MiB.
 [2022.07.16-12.51.30:505][906]LogDerivedDataCache: C:/Users/feder/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.129 and deleted 0 file(s) with total size 0 MiB.
 [2022.07.16-13.51.30:646][695]LogDerivedDataCache: C:/Users/feder/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.135 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.16-14.23.23:238][407]LogContentBrowser: Attempting asset rename: BP_FirstPersonCharacter -> BP_FirstPersonCharacter
+[2022.07.16-14.23.32:812][137]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.16-14.23.40:116][137]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.07.16-14.23.40:123][137]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.07.16-14.23.40:129][137]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.07.16-14.23.40:140][138]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.07.16-14.23.44:273][459]LogContentBrowser: Attempting asset rename: NewBlueprint -> MainHUD
+[2022.07.16-14.23.44:282][459]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.07.16-14.24.08:264][869]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.16-14.24.35:933][816]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SViewport [AssetThumbnail.cpp(173)].
+[2022.07.16-14.24.35:934][816]LogContentBrowser: Attempting asset rename: PlayerHUD -> Widg
+[2022.07.16-14.24.35:988][816]LogMetaData: Removing '/Game/90RUN_ASSETS/UI/HUD/Widg.Widg_C' ref from Metadata '/Game/90RUN_ASSETS/UI/HUD/PlayerHUD.PackageMetaData'
+[2022.07.16-14.24.35:988][816]LogMetaData: Removing '/Game/90RUN_ASSETS/UI/HUD/Widg.Widg:EventGraph.K2Node_Event_0' ref from Metadata '/Game/90RUN_ASSETS/UI/HUD/PlayerHUD.PackageMetaData'
+[2022.07.16-14.24.35:988][816]LogMetaData: Removing '/Game/90RUN_ASSETS/UI/HUD/Widg.Widg:EventGraph.K2Node_Event_1' ref from Metadata '/Game/90RUN_ASSETS/UI/HUD/PlayerHUD.PackageMetaData'
+[2022.07.16-14.24.35:989][816]LogMetaData: Removing '/Game/90RUN_ASSETS/UI/HUD/Widg.Widg:EventGraph.K2Node_Event_2' ref from Metadata '/Game/90RUN_ASSETS/UI/HUD/PlayerHUD.PackageMetaData'
+[2022.07.16-14.24.35:989][816]LogMetaData: Removing '/Game/90RUN_ASSETS/UI/HUD/Widg.SKEL_Widg_C:PreConstruct' ref from Metadata '/Game/90RUN_ASSETS/UI/HUD/PlayerHUD.PackageMetaData'
+[2022.07.16-14.24.35:989][816]LogMetaData: Removing '/Game/90RUN_ASSETS/UI/HUD/Widg.SKEL_Widg_C:Construct' ref from Metadata '/Game/90RUN_ASSETS/UI/HUD/PlayerHUD.PackageMetaData'
+[2022.07.16-14.24.35:989][816]LogMetaData: Removing '/Game/90RUN_ASSETS/UI/HUD/Widg.SKEL_Widg_C:Tick' ref from Metadata '/Game/90RUN_ASSETS/UI/HUD/PlayerHUD.PackageMetaData'
+[2022.07.16-14.24.35:989][816]LogMetaData: Removing '/Game/90RUN_ASSETS/UI/HUD/Widg.SKEL_Widg_C' ref from Metadata '/Game/90RUN_ASSETS/UI/HUD/PlayerHUD.PackageMetaData'
+[2022.07.16-14.24.36:000][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/90RUN_ASSETS/UI/HUD/Widg" FILE="../../../../../../Users/feder/Documents/GitHub/KPGames/Content/90RUN_ASSETS/UI/HUD/Widg.uasset" SILENT=true
+[2022.07.16-14.24.36:004][816]LogSavePackage: Moving output files for package: /Game/90RUN_ASSETS/UI/HUD/Widg
+[2022.07.16-14.24.36:004][816]LogSavePackage: Moving '../../../../../../Users/feder/Documents/GitHub/KPGames/Saved/Widg3D90D7564C08CC1C695E2D95CC02EBB1.tmp' to '../../../../../../Users/feder/Documents/GitHub/KPGames/Content/90RUN_ASSETS/UI/HUD/Widg.uasset'
+[2022.07.16-14.24.36:009][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/90RUN_ASSETS/UI/HUD/PlayerHUD" FILE="../../../../../../Users/feder/Documents/GitHub/KPGames/Content/90RUN_ASSETS/UI/HUD/PlayerHUD.uasset" SILENT=true
+[2022.07.16-14.24.36:010][816]LogSavePackage: Moving output files for package: /Game/90RUN_ASSETS/UI/HUD/PlayerHUD
+[2022.07.16-14.24.36:011][816]LogSavePackage: Moving '../../../../../../Users/feder/Documents/GitHub/KPGames/Saved/PlayerHUD2B46900B4D47D23EB6DAB0AA8A0B8F6E.tmp' to '../../../../../../Users/feder/Documents/GitHub/KPGames/Content/90RUN_ASSETS/UI/HUD/PlayerHUD.uasset'
+[2022.07.16-14.24.36:089][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.07.16-14.24.36:136][816]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/FirstPersonMap_Auto5
+[2022.07.16-14.24.36:136][816]LogSavePackage: Moving '../../../../../../Users/feder/Documents/GitHub/KPGames/Saved/FirstPersonMap_Auto5258EEC67403574429244E2A15FD6E532.tmp' to '../../../../../../Users/feder/Documents/GitHub/KPGames/Saved/Autosaves/Game/FirstPerson/Maps/FirstPersonMap_Auto5.umap'
+[2022.07.16-14.24.36:148][816]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.116
+[2022.07.16-14.24.36:148][816]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.116
+[2022.07.16-14.24.36:149][816]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode] ([2] browsable assets)...
+[2022.07.16-14.24.36:149][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode]
+[2022.07.16-14.24.36:151][816]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode_Auto5
+[2022.07.16-14.24.36:151][816]LogSavePackage: Moving '../../../../../../Users/feder/Documents/GitHub/KPGames/Saved/BP_FirstPersonGameMode_Auto56453DBFA450F97D11961C996782FE7C1.tmp' to '../../../../../../Users/feder/Documents/GitHub/KPGames/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode_Auto5.uasset'
+[2022.07.16-14.24.36:153][816]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2022.07.16-14.24.36:153][816]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2022.07.16-14.24.36:168][816]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto5
+[2022.07.16-14.24.36:168][816]LogSavePackage: Moving '../../../../../../Users/feder/Documents/GitHub/KPGames/Saved/BP_FirstPersonCharacter_Auto5E68429FF4FFADE880A320989471830EF.tmp' to '../../../../../../Users/feder/Documents/GitHub/KPGames/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto5.uasset'
+[2022.07.16-14.24.36:170][816]LogFileHelpers: Auto-saving content packages took 0.021
+[2022.07.16-14.24.36:201][817]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.16-14.24.36:201][817]LogContentValidation: Display: Validating WidgetBlueprint /Game/90RUN_ASSETS/UI/HUD/Widg.Widg
+[2022.07.16-14.24.36:202][817]LogContentValidation: Display: Validating ObjectRedirector /Game/90RUN_ASSETS/UI/HUD/PlayerHUD.PlayerHUD
+[2022.07.16-14.24.36:202][817]LogContentValidation: Display: Validating ObjectRedirector /Game/90RUN_ASSETS/UI/HUD/PlayerHUD.Default__PlayerHUD_C
+[2022.07.16-14.24.36:203][817]LogContentValidation: Display: Validating ObjectRedirector /Game/90RUN_ASSETS/UI/HUD/PlayerHUD.PlayerHUD_C
+[2022.07.16-14.24.38:291][973]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.07.16-14.24.38:291][973]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.07.16-14.24.41:324][240]LogContentBrowser: Attempting asset rename: Widg -> WidgetHUD
+[2022.07.16-14.24.41:348][240]LogMetaData: Removing '/Game/90RUN_ASSETS/UI/HUD/WidgetHUD.WidgetHUD_C' ref from Metadata '/Game/90RUN_ASSETS/UI/HUD/Widg.PackageMetaData'
+[2022.07.16-14.24.41:348][240]LogMetaData: Removing '/Game/90RUN_ASSETS/UI/HUD/WidgetHUD.SKEL_WidgetHUD_C' ref from Metadata '/Game/90RUN_ASSETS/UI/HUD/Widg.PackageMetaData'
+[2022.07.16-14.24.41:348][240]LogMetaData: Removing '/Game/90RUN_ASSETS/UI/HUD/WidgetHUD.SKEL_WidgetHUD_C:PreConstruct' ref from Metadata '/Game/90RUN_ASSETS/UI/HUD/Widg.PackageMetaData'
+[2022.07.16-14.24.41:348][240]LogMetaData: Removing '/Game/90RUN_ASSETS/UI/HUD/WidgetHUD.SKEL_WidgetHUD_C:Construct' ref from Metadata '/Game/90RUN_ASSETS/UI/HUD/Widg.PackageMetaData'
+[2022.07.16-14.24.41:348][240]LogMetaData: Removing '/Game/90RUN_ASSETS/UI/HUD/WidgetHUD.SKEL_WidgetHUD_C:Tick' ref from Metadata '/Game/90RUN_ASSETS/UI/HUD/Widg.PackageMetaData'
+[2022.07.16-14.24.41:348][240]LogMetaData: Removing '/Game/90RUN_ASSETS/UI/HUD/WidgetHUD.WidgetHUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/90RUN_ASSETS/UI/HUD/Widg.PackageMetaData'
+[2022.07.16-14.24.41:348][240]LogMetaData: Removing '/Game/90RUN_ASSETS/UI/HUD/WidgetHUD.WidgetHUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/90RUN_ASSETS/UI/HUD/Widg.PackageMetaData'
+[2022.07.16-14.24.41:348][240]LogMetaData: Removing '/Game/90RUN_ASSETS/UI/HUD/WidgetHUD.WidgetHUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/90RUN_ASSETS/UI/HUD/Widg.PackageMetaData'
+[2022.07.16-14.24.41:411][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/90RUN_ASSETS/UI/HUD/WidgetHUD" FILE="../../../../../../Users/feder/Documents/GitHub/KPGames/Content/90RUN_ASSETS/UI/HUD/WidgetHUD.uasset" SILENT=true
+[2022.07.16-14.24.41:415][240]LogSavePackage: Moving output files for package: /Game/90RUN_ASSETS/UI/HUD/WidgetHUD
+[2022.07.16-14.24.41:415][240]LogSavePackage: Moving '../../../../../../Users/feder/Documents/GitHub/KPGames/Saved/WidgetHUDEC2BABAC4E880FDDEDD7CAB57C2CE38F.tmp' to '../../../../../../Users/feder/Documents/GitHub/KPGames/Content/90RUN_ASSETS/UI/HUD/WidgetHUD.uasset'
+[2022.07.16-14.24.41:417][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/90RUN_ASSETS/UI/HUD/Widg" FILE="../../../../../../Users/feder/Documents/GitHub/KPGames/Content/90RUN_ASSETS/UI/HUD/Widg.uasset" SILENT=true
+[2022.07.16-14.24.41:418][240]LogSavePackage: Moving output files for package: /Game/90RUN_ASSETS/UI/HUD/Widg
+[2022.07.16-14.24.41:419][240]LogSavePackage: Moving '../../../../../../Users/feder/Documents/GitHub/KPGames/Saved/WidgDB60DDC84B8D8D3C2063789C73442A7F.tmp' to '../../../../../../Users/feder/Documents/GitHub/KPGames/Content/90RUN_ASSETS/UI/HUD/Widg.uasset'
+[2022.07.16-14.24.41:439][240]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.16-14.24.41:439][240]LogContentValidation: Display: Validating WidgetBlueprint /Game/90RUN_ASSETS/UI/HUD/WidgetHUD.WidgetHUD
+[2022.07.16-14.24.41:440][240]LogContentValidation: Display: Validating ObjectRedirector /Game/90RUN_ASSETS/UI/HUD/Widg.Widg
+[2022.07.16-14.24.41:440][240]LogContentValidation: Display: Validating ObjectRedirector /Game/90RUN_ASSETS/UI/HUD/Widg.Default__Widg_C
+[2022.07.16-14.24.41:441][240]LogContentValidation: Display: Validating ObjectRedirector /Game/90RUN_ASSETS/UI/HUD/Widg.Widg_C
+[2022.07.16-14.24.45:258][404]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/90RUN_ASSETS/UI/HUD/WidgetHUD.WidgetHUD
+[2022.07.16-14.24.45:259][404]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-14.24.45:277][404]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-14.24.45:285][404]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.07.16-14.24.45:944][404]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.07.16-14.24.45:944][404]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.07.16-14.24.46:108][404]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.07.16-14.24.47:525][476]LogSlate: Window 'WidgetHUD' being destroyed
+[2022.07.16-14.24.47:531][476]LogSlate: Window 'WidgetHUD' being destroyed
+[2022.07.16-14.24.47:554][476]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-14.24.47:554][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-14.24.47:568][476]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-14.24.47:568][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-14.25.34:481][875]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/90RUN_ASSETS/UI/HUD/WidgetHUD.WidgetHUD
+[2022.07.16-14.25.34:482][875]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-14.25.34:501][875]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-14.25.35:223][875]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.07.16-14.25.35:223][875]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.07.16-14.28.27:469][ 79]BlueprintLog: New page: Compile WidgetHUD
+[2022.07.16-14.28.27:603][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.07.16-14.28.28:101][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/90RUN_ASSETS/UI/HUD/WidgetHUD" FILE="../../../../../../Users/feder/Documents/GitHub/KPGames/Content/90RUN_ASSETS/UI/HUD/WidgetHUD.uasset" SILENT=true
+[2022.07.16-14.28.28:105][106]LogSavePackage: Moving output files for package: /Game/90RUN_ASSETS/UI/HUD/WidgetHUD
+[2022.07.16-14.28.28:106][106]LogSavePackage: Moving '../../../../../../Users/feder/Documents/GitHub/KPGames/Saved/WidgetHUDBB1159CE47BCB9088160C7B62B4B5BD0.tmp' to '../../../../../../Users/feder/Documents/GitHub/KPGames/Content/90RUN_ASSETS/UI/HUD/WidgetHUD.uasset'
+[2022.07.16-14.28.28:121][106]AssetCheck: New page: Asset Save: WidgetHUD
+[2022.07.16-14.28.28:122][106]LogContentValidation: Display: Validating WidgetBlueprint /Game/90RUN_ASSETS/UI/HUD/WidgetHUD.WidgetHUD
+[2022.07.16-14.28.29:077][175]LogSlate: Window 'WidgetHUD' being destroyed
+[2022.07.16-14.28.29:082][175]LogSlate: Window 'WidgetHUD' being destroyed
+[2022.07.16-14.28.29:106][175]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-14.28.29:106][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-14.28.29:116][175]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-14.28.29:116][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-14.28.31:470][358]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/90RUN_ASSETS/UI/HUD/MainHUD.MainHUD
+[2022.07.16-14.28.31:471][358]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-14.28.31:966][358]LogViewport: Scene viewport resized to 1141x789, mode Windowed.
+[2022.07.16-14.28.39:748][976]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.16-14.28.50:938][ 43]BlueprintLog: New page: Compile MainHUD
+[2022.07.16-14.28.51:076][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.07.16-14.28.51:352][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/90RUN_ASSETS/UI/HUD/MainHUD" FILE="../../../../../../Users/feder/Documents/GitHub/KPGames/Content/90RUN_ASSETS/UI/HUD/MainHUD.uasset" SILENT=true
+[2022.07.16-14.28.51:356][ 60]LogSavePackage: Moving output files for package: /Game/90RUN_ASSETS/UI/HUD/MainHUD
+[2022.07.16-14.28.51:356][ 60]LogSavePackage: Moving '../../../../../../Users/feder/Documents/GitHub/KPGames/Saved/MainHUD34C408D745E784F4EBC10F84BD7A26DA.tmp' to '../../../../../../Users/feder/Documents/GitHub/KPGames/Content/90RUN_ASSETS/UI/HUD/MainHUD.uasset'
+[2022.07.16-14.28.51:371][ 60]AssetCheck: New page: Asset Save: MainHUD
+[2022.07.16-14.28.51:371][ 60]LogContentValidation: Display: Validating Blueprint /Game/90RUN_ASSETS/UI/HUD/MainHUD.MainHUD
+[2022.07.16-14.28.52:970][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/90RUN_ASSETS/UI/HUD/MainHUD" FILE="../../../../../../Users/feder/Documents/GitHub/KPGames/Content/90RUN_ASSETS/UI/HUD/MainHUD.uasset" SILENT=true
+[2022.07.16-14.28.52:974][176]LogSavePackage: Moving output files for package: /Game/90RUN_ASSETS/UI/HUD/MainHUD
+[2022.07.16-14.28.52:975][176]LogSavePackage: Moving '../../../../../../Users/feder/Documents/GitHub/KPGames/Saved/MainHUD7831695046D9F98B7963A1BD90B3CA12.tmp' to '../../../../../../Users/feder/Documents/GitHub/KPGames/Content/90RUN_ASSETS/UI/HUD/MainHUD.uasset'
+[2022.07.16-14.28.52:989][176]AssetCheck: New page: Asset Save: MainHUD
+[2022.07.16-14.28.52:989][176]LogContentValidation: Display: Validating Blueprint /Game/90RUN_ASSETS/UI/HUD/MainHUD.MainHUD
+[2022.07.16-14.28.53:735][233]LogSlate: Window 'MainHUD' being destroyed
+[2022.07.16-14.28.53:740][233]LogSlate: Window 'MainHUD' being destroyed
+[2022.07.16-14.28.53:744][233]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-14.28.53:744][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-14.28.58:467][597]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.07.16-14.28.58:467][597]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-14.29.03:481][872]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2022.07.16-14.29.03:487][872]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2022.07.16-14.29.03:491][872]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-14.29.03:491][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-14.29.05:918][ 56]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode
+[2022.07.16-14.29.05:918][ 56]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-14.29.08:286][197]LogSlate: Window 'BP_FirstPersonGameMode' being destroyed
+[2022.07.16-14.29.08:292][197]LogSlate: Window 'BP_FirstPersonGameMode' being destroyed
+[2022.07.16-14.29.08:296][197]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-14.29.08:296][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-14.29.10:227][349]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.07.16-14.29.10:227][349]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-14.29.16:751][780]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2022.07.16-14.29.16:756][780]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2022.07.16-14.29.16:761][780]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-14.29.16:761][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-14.29.23:028][293]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.FirstPersonMap
+[2022.07.16-14.29.23:028][293]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-14.29.26:760][578]BlueprintLog: New page: Compile FirstPersonMap
+[2022.07.16-14.29.26:818][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.07.16-14.29.27:582][633]LogFileHelpers: No new changes to save!
+[2022.07.16-14.29.27:613][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.07.16-14.29.27:619][633]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/FirstPersonMap
+[2022.07.16-14.29.27:620][633]LogSavePackage: Moving '../../../../../../Users/feder/Documents/GitHub/KPGames/Saved/FirstPersonMapA89B444148170D36138DC794EECC887F.tmp' to '../../../../../../Users/feder/Documents/GitHub/KPGames/Content/FirstPerson/Maps/FirstPersonMap.umap'
+[2022.07.16-14.29.27:631][633]LogFileHelpers: Saving map 'FirstPersonMap' took 0.050
+[2022.07.16-14.29.27:644][633]AssetCheck: New page: Asset Save: FirstPersonMap
+[2022.07.16-14.29.27:644][633]LogContentValidation: Display: Validating World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2022.07.16-14.29.28:457][697]LogSlate: Window 'FirstPersonMap' being destroyed
+[2022.07.16-14.29.28:462][697]LogSlate: Window 'FirstPersonMap' being destroyed
+[2022.07.16-14.29.28:466][697]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-14.29.28:466][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
