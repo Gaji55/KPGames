@@ -3385,3 +3385,237 @@ Script Stack (0 frames):
 [2022.07.16-15.08.06:971][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.07.16-15.08.06:974][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
 [2022.07.16-15.08.07:029][745]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2022.07.16-15.09.32:966][182]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.07.16-15.09.32:967][182]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-15.09.38:875][556]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.07.16-15.09.38:933][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.07.16-15.09.39:500][582]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.07.16-15.09.39:501][582]LogSavePackage: Moving '../../../../../../Users/feder/Documents/GitHub/KPGames/Saved/BP_FirstPersonCharacter53415C5343496D26F013D8AB6FE8201B.tmp' to '../../../../../../Users/feder/Documents/GitHub/KPGames/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.07.16-15.09.39:517][582]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.07.16-15.09.39:517][582]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.07.16-15.09.40:549][656]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2022.07.16-15.09.40:555][656]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2022.07.16-15.09.40:561][656]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-15.09.40:562][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-15.09.53:715][694]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.16-15.09.53:724][694]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.16-15.09.53:724][694]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.16-15.09.53:724][694]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.16-15.09.53:724][694]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.16-15.09.53:724][694]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.07.16-15.09.53:724][694]LogWorldPartition: Display: GetPartitionedActors took 55 us
+[2022.07.16-15.09.53:725][694]LogWorldPartition: Display: GenerateStreaming took 394 us
+[2022.07.16-15.09.53:725][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.16-15.09.53:725][694]PIE: New page: PIE session: FirstPersonMap (Jul 16, 2022, 7:09:53 PM)
+[2022.07.16-15.09.53:748][694]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.07.16-15.09.53:754][694]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.16-15.09.53:754][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005840s)
+[2022.07.16-15.09.53:754][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005934s)
+[2022.07.16-15.09.53:754][694]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-15.09.53:755][694]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.07.16-15.09.53:755][694]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.16-15.09.53:755][694]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.16-15.09.53:757][694]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.07.16-15.09.53:757][694]LogPlayLevel: PIE: World Init took: (0.002445s)
+[2022.07.16-15.09.53:779][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.07.16-15.09.53:794][694]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.07.16-15.09.53:794][694]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.16-15.09.53:794][694]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.16-15.09.53:794][694]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.16-15.09.53:794][694]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.16-15.09.53:794][694]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.16-15.09.53:794][694]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.16-15.09.53:794][694]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.16-15.09.53:794][694]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.16-15.09.53:794][694]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.16-15.09.53:794][694]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.16-15.09.53:794][694]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.16-15.09.53:796][694]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.16-15.09.53:824][694]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (Logitech G432 Gaming Headset)
+[2022.07.16-15.09.53:825][694]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.16-15.09.53:825][694]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.16-15.09.53:825][694]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.16-15.09.53:826][694]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2022.07.16-15.09.53:826][694]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=24
+[2022.07.16-15.09.53:827][694]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2022.07.16-15.09.53:827][694]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2022.07.16-15.09.53:827][694]LogInit: FAudioDevice initialized.
+[2022.07.16-15.09.53:827][694]LogAudio: Display: Audio Device (ID: 24) registered with world 'FirstPersonMap'.
+[2022.07.16-15.09.53:840][694]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.07.16-15.09.53:843][694]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.07.16-17.09.53
+[2022.07.16-15.09.53:843][694]LogWorld: Bringing up level for play took: 0.002474
+[2022.07.16-15.09.53:845][694]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2022.07.16-15.09.53:846][694]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2022.07.16-15.09.53:846][694]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.16-15.09.53:848][694]PIE: Server logged in
+[2022.07.16-15.09.53:848][694]PIE: Play in editor total start time 0.126 seconds.
+[2022.07.16-15.09.54:927][781]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.07.16-15.09.58:039][ 59]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.07.16-15.09.58:938][142]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.07.16-15.09.59:390][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.16-15.09.59:390][182]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.07.16-15.09.59:390][182]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-15.09.59:390][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-15.09.59:404][182]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.16-15.09.59:409][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-15.09.59:433][182]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.16-15.09.59:433][182]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2022.07.16-15.09.59:434][182]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2022.07.16-15.09.59:438][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.16-15.09.59:440][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.07.16-15.09.59:506][183]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2022.07.16-15.10.06:552][810]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode
+[2022.07.16-15.10.06:552][810]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-15.10.08:266][908]LogSlate: Window 'BP_FirstPersonGameMode' being destroyed
+[2022.07.16-15.10.08:276][908]LogSlate: Window 'BP_FirstPersonGameMode' being destroyed
+[2022.07.16-15.10.08:280][908]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-15.10.08:280][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-15.10.09:931][ 40]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.07.16-15.10.09:932][ 40]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-15.10.15:427][386]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2022.07.16-15.10.15:484][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.07.16-15.10.16:031][409]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2022.07.16-15.10.16:032][409]LogSavePackage: Moving '../../../../../../Users/feder/Documents/GitHub/KPGames/Saved/BP_FirstPersonCharacter66E712844FD74066E6A1F1A3FCCCA4D1.tmp' to '../../../../../../Users/feder/Documents/GitHub/KPGames/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2022.07.16-15.10.16:048][409]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2022.07.16-15.10.16:048][409]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2022.07.16-15.10.18:171][566]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2022.07.16-15.10.18:176][566]LogSlate: Window 'BP_FirstPersonCharacter' being destroyed
+[2022.07.16-15.10.18:181][566]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-15.10.18:181][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-15.10.20:203][728]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.16-15.10.20:211][728]LogWorldPartition: Display: GenerateStreaming started...
+[2022.07.16-15.10.20:211][728]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.07.16-15.10.20:211][728]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.16-15.10.20:211][728]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.07.16-15.10.20:211][728]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.07.16-15.10.20:211][728]LogWorldPartition: Display: GetPartitionedActors took 56 us
+[2022.07.16-15.10.20:212][728]LogWorldPartition: Display: GenerateStreaming took 423 us
+[2022.07.16-15.10.20:212][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.16-15.10.20:212][728]PIE: New page: PIE session: FirstPersonMap (Jul 16, 2022, 7:10:20 PM)
+[2022.07.16-15.10.20:252][728]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.07.16-15.10.20:258][728]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.07.16-15.10.20:258][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005974s)
+[2022.07.16-15.10.20:258][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006060s)
+[2022.07.16-15.10.20:258][728]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-15.10.20:258][728]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.07.16-15.10.20:259][728]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.16-15.10.20:259][728]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.07.16-15.10.20:260][728]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.07.16-15.10.20:260][728]LogPlayLevel: PIE: World Init took: (0.002467s)
+[2022.07.16-15.10.20:283][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.07.16-15.10.20:299][728]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.07.16-15.10.20:299][728]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.16-15.10.20:299][728]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.16-15.10.20:299][728]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.16-15.10.20:299][728]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.16-15.10.20:299][728]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.16-15.10.20:299][728]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.16-15.10.20:299][728]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.16-15.10.20:299][728]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.16-15.10.20:299][728]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.16-15.10.20:299][728]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.16-15.10.20:299][728]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.16-15.10.20:301][728]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.16-15.10.20:329][728]LogAudioMixer: Display: Using Audio Hardware Device Lautsprecher (Logitech G432 Gaming Headset)
+[2022.07.16-15.10.20:329][728]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.16-15.10.20:329][728]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.16-15.10.20:329][728]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.16-15.10.20:330][728]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2022.07.16-15.10.20:330][728]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=25
+[2022.07.16-15.10.20:331][728]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2022.07.16-15.10.20:331][728]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2022.07.16-15.10.20:331][728]LogInit: FAudioDevice initialized.
+[2022.07.16-15.10.20:331][728]LogAudio: Display: Audio Device (ID: 25) registered with world 'FirstPersonMap'.
+[2022.07.16-15.10.20:346][728]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2022.07.16-15.10.20:349][728]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2022.07.16-17.10.20
+[2022.07.16-15.10.20:349][728]LogWorld: Bringing up level for play took: 0.002541
+[2022.07.16-15.10.20:351][728]LogOnline: OSS: Created online subsystem instance for: :Context_78
+[2022.07.16-15.10.20:352][728]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=850.000 Z=98.337
+[2022.07.16-15.10.20:352][728]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.07.16-15.10.20:354][728]PIE: Server logged in
+[2022.07.16-15.10.20:355][728]PIE: Play in editor total start time 0.145 seconds.
+[2022.07.16-15.10.21:668][836]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.07.16-15.10.22:471][908]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.07.16-15.10.25:093][133]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 0
+[2022.07.16-15.10.29:803][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.16-15.10.29:803][547]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2022.07.16-15.10.29:803][547]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-15.10.29:803][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-15.10.29:814][547]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.16-15.10.29:820][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-15.10.29:844][547]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.16-15.10.29:844][547]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2022.07.16-15.10.29:845][547]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2022.07.16-15.10.29:849][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.16-15.10.29:851][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.07.16-15.10.29:906][548]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2022.07.16-15.11.06:561][243]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/90RUN_ASSETS/UI/Menus/MainMenu.MainMenu
+[2022.07.16-15.11.06:561][243]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-15.11.06:569][243]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-15.11.07:034][243]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.07.16-15.11.07:034][243]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.07.16-15.11.09:121][395]LogSlate: Window 'MainMenu' being destroyed
+[2022.07.16-15.11.09:130][395]LogSlate: Window 'MainMenu' being destroyed
+[2022.07.16-15.11.09:160][395]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-15.11.09:160][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-15.11.09:169][395]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-15.11.09:169][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-15.11.11:271][553]LogLinker: Warning: [AssetLog] C:\Users\feder\Documents\GitHub\KPGames\Content\90RUN_ASSETS\UI\Menus\GameOverScreen.uasset: Failed to load '/Game/UI/BtnGraphics/Quit': Can't find file.
+[2022.07.16-15.11.11:271][553]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/UI/BtnGraphics/Quit'
+[2022.07.16-15.11.11:271][553]LogLinker: Warning: [AssetLog] C:\Users\feder\Documents\GitHub\KPGames\Content\90RUN_ASSETS\UI\Menus\GameOverScreen.uasset: Failed to load '/Game/UI/BtnGraphics/TryAgain': Can't find file.
+[2022.07.16-15.11.11:271][553]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/UI/BtnGraphics/TryAgain'
+[2022.07.16-15.11.11:280][553]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/90RUN_ASSETS/UI/Menus/GameOverScreen.GameOverScreen
+[2022.07.16-15.11.11:280][553]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-15.11.11:287][553]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-15.11.11:723][553]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.07.16-15.11.11:723][553]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.07.16-15.11.20:549][195]LogSlate: Window 'GameOverScreen' being destroyed
+[2022.07.16-15.11.20:556][195]LogSlate: Window 'GameOverScreen' being destroyed
+[2022.07.16-15.11.20:608][195]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-15.11.20:608][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-15.11.20:617][195]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-15.11.20:617][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-15.11.23:146][384]LogLinker: Warning: [AssetLog] C:\Users\feder\Documents\GitHub\KPGames\Content\90RUN_ASSETS\UI\Menus\PauseMenu.uasset: Failed to load '/Game/UI/BtnGraphics/Continue': Can't find file.
+[2022.07.16-15.11.23:146][384]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/UI/BtnGraphics/Continue'
+[2022.07.16-15.11.23:146][384]LogLinker: Warning: [AssetLog] C:\Users\feder\Documents\GitHub\KPGames\Content\90RUN_ASSETS\UI\Menus\PauseMenu.uasset: Failed to load '/Game/UI/BtnGraphics/MainMenu': Can't find file.
+[2022.07.16-15.11.23:146][384]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/UI/BtnGraphics/MainMenu'
+[2022.07.16-15.11.23:147][384]LogLinker: Warning: [AssetLog] C:\Users\feder\Documents\GitHub\KPGames\Content\90RUN_ASSETS\UI\Menus\PauseMenu.uasset: Failed to load '/Game/UI/HUD/PlayerHUD': Can't find file.
+[2022.07.16-15.11.23:147][384]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/UI/HUD/PlayerHUD'
+[2022.07.16-15.11.23:152][384]LogBlueprint: Error: [AssetLog] C:\Users\feder\Documents\GitHub\KPGames\Content\90RUN_ASSETS\UI\Menus\PauseMenu.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2022.07.16-15.11.23:156][384]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/90RUN_ASSETS/UI/Menus/PauseMenu.PauseMenu
+[2022.07.16-15.11.23:156][384]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-15.11.23:163][384]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-15.11.23:617][384]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.07.16-15.11.23:617][384]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.07.16-15.11.27:685][660]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.16-15.11.27:685][660]LogEditorClassViewer: Warning: Class /Game/90RUN_ASSETS/UI/Menus/PauseMenu.PLACEHOLDER-CLASS__PlayerHUD_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.16-15.11.51:212][400]BlueprintLog: New page: Compile PauseMenu
+[2022.07.16-15.11.51:268][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.07.16-15.11.52:012][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/90RUN_ASSETS/UI/Menus/PauseMenu" FILE="../../../../../../Users/feder/Documents/GitHub/KPGames/Content/90RUN_ASSETS/UI/Menus/PauseMenu.uasset" SILENT=true
+[2022.07.16-15.11.52:020][448]LogSavePackage: Moving output files for package: /Game/90RUN_ASSETS/UI/Menus/PauseMenu
+[2022.07.16-15.11.52:021][448]LogSavePackage: Moving '../../../../../../Users/feder/Documents/GitHub/KPGames/Saved/PauseMenuFDA767E4480E4974E4D585B61AEA1805.tmp' to '../../../../../../Users/feder/Documents/GitHub/KPGames/Content/90RUN_ASSETS/UI/Menus/PauseMenu.uasset'
+[2022.07.16-15.11.52:036][448]AssetCheck: New page: Asset Save: PauseMenu
+[2022.07.16-15.11.52:036][448]LogContentValidation: Display: Validating WidgetBlueprint /Game/90RUN_ASSETS/UI/Menus/PauseMenu.PauseMenu
+[2022.07.16-15.11.54:026][598]LogSlate: Window 'PauseMenu' being destroyed
+[2022.07.16-15.11.54:033][598]LogSlate: Window 'PauseMenu' being destroyed
+[2022.07.16-15.11.54:055][598]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-15.11.54:055][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-15.11.54:064][598]LogWorld: UWorld::CleanupWorld for World_77, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-15.11.54:064][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-15.12.08:609][716]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2022.07.16-15.12.08:609][716]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-15.12.08:616][716]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-15.12.09:073][716]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.07.16-15.12.09:073][716]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.07.16-15.12.09:157][716]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	MainMenu_C /Engine/Transient.World_81:MainMenu_C_0
+	Function /Game/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu:0030
+[2022.07.16-15.12.09:171][717]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	MainMenu_C /Engine/Transient.World_81:MainMenu_C_1
+	Function /Game/UI/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu:0030
+[2022.07.16-15.12.11:728][909]LogSlate: Window 'MainMenu' being destroyed
+[2022.07.16-15.12.11:734][909]LogSlate: Window 'MainMenu' being destroyed
+[2022.07.16-15.12.11:767][909]LogWorld: UWorld::CleanupWorld for World_81, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-15.12.11:767][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-15.12.11:776][909]LogWorld: UWorld::CleanupWorld for World_80, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-15.12.11:776][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
